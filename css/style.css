@@ -1,11 +1,10 @@
-#wrap {
-    max-width: 400px;
-}
-body {
-    width: 500px;
-}
+
 #wrap img {
     
- width: 100%;
- margin: 0 auto;
+width: 100%;
+
 }
+
+.main__img {
+   max-width: 400px;
+ margin: 0 auto;
